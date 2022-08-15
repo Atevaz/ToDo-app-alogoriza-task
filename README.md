@@ -1,16 +1,20 @@
 # todo_app_algoriza_task
 
-A new Flutter project.
+Todo App task 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2022-08-15 at 3 57 19 PM](https://user-images.githubusercontent.com/101355785/184649468-87d47629-0f02-4642-aba9-48012bc67445.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2022-08-15 at 3 57 19 PM (2)](https://user-images.githubusercontent.com/101355785/184649547-7799f5b4-4809-4542-9b44-b654501eabe3.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-08-15 at 3 57 16 PM](https://user-images.githubusercontent.com/101355785/184649423-bc558650-efd2-4d64-b86a-a70c0b36f2aa.jpeg)
+
+![WhatsApp Image 2022-08-15 at 3 57 19 PM (1)](https://user-images.githubusercontent.com/101355785/184649599-9b0af02e-e70d-4a68-afac-42e9ae0676b1.jpeg)
+
+![WhatsApp Image 2022-08-15 at 3 57 19 PM (3)](https://user-images.githubusercontent.com/101355785/184649623-eba7ae01-a57e-419e-865f-f25de92f556e.jpeg)
+
+![WhatsApp Image 2022-08-15 at 3 57 18 PM (1)](https://user-images.githubusercontent.com/101355785/184649648-e3e18fbf-b6a1-4672-9987-148f55328402.jpeg)
+
+![WhatsApp Image 2022-08-15 at 4 00 41 PM](https://user-images.githubusercontent.com/101355785/184649777-ca329f46-dd58-4217-ae9f-9a97bcabc128.jpeg)
